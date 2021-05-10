@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "webpack --mode development",
+    "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/minhlg1426/movieList/issues"
   },
-  "homepage": "https://github.com/minhlg1426/movieList#readme"
+  "homepage": "https://github.com/minhlg1426/movieList#readme",
+  "devDependencies": {
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0"
+  }
 }
