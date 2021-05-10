@@ -1,0 +1,20 @@
+{
+  "name": "movieList",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhlg1426/movieList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhlg1426/movieList/issues"
+  },
+  "homepage": "https://github.com/minhlg1426/movieList#readme"
+}
